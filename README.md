@@ -7,8 +7,6 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 
 ## Usage in page content
 
-Simple usage
-
 ```
 {tiny url="http://morfy.org"}
 ```
