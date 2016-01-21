@@ -3,18 +3,18 @@
 Tiny Url plugin takes a long url and uses the TinyURL API to return a shortened version.
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
 ```
-{tiny url="http://morfy.org"}
+{tiny url="http://fansoro.org"}
 ```
 
 ## Usage in template
 
 ```smarty
-{tiny('http://morfy.org')}
+{tiny('http://fansoro.org')}
 ```
 
 ## Options
@@ -24,4 +24,4 @@ See [this instruction](http://morfy.org/documentation/plugins/plugins-installati
 | enabled | true | or `false` to disable the plugin |
 
 ## License
-See  [LICENSE](https://github.com/morfy-cms/morfy-plugin-tiny-url/blob/master/LICENSE)
+See  [LICENSE](https://github.com/fansoro/fansoro-plugin-tiny-url/blob/master/LICENSE)

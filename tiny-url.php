@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Morfy Tiny Url Plugin
+ * Fansoro Tiny Url Plugin
  *
  * (c) Romanenko Sergey / Awilum <awilum@msn.com>
  *

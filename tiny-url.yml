@@ -4,9 +4,9 @@ description: "Tiny Url plugin takes a long url and uses the TinyURL API to retur
 author:
   name: Sergey Romanenko
   email: awilum@msn.com
-  url: http://morfy.org
-homepage: https://github.com/morfy-cms/morfy-plugin-tiny-url
-bugs: https://github.com/morfy-cms/morfy-plugin-tiny-url/issues
+  url: http://fansoro.org
+homepage: https://github.com/fansoro/fansoro-plugin-tiny-url
+bugs: https://github.com/fansoro/fansoro-plugin-tiny-url/issues
 license: MIT
 
 # Plugin settings
